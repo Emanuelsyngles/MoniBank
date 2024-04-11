@@ -19,8 +19,6 @@ Você Entrará no site do monibank, e após isso você passará por um processo 
  🔹 [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
  <br>
 🔹 [Javascript](https://www.javascript.com/)
- <br>
-🔹 [NodeJS](https://nodejs.org/en)
 
 
   
