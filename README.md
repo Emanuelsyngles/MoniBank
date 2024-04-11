@@ -8,10 +8,10 @@ Você Entrará no site do monibank, e após isso você passará por um processo 
 
 
 ## Status
---  Projeto vidflow concluído 🎯
+--  Projeto monibank concluído 🎯
 
 ## Objetivo
---  O principal objetivo desse projeto é aprimorar as tecnicas em consume de APIS e tratamento de erros aplicando tecnicas eficazes e de preferência limpas.
+--  O principal objetivo desse projeto é aplicar conceitos de validação de formulários.
 
  ## Tecnologias 🔧
  🔹 [HTML5](https://html.com/)
